@@ -1,0 +1,39 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/27tg5b0ij2u0t.js"
+3:I[80492,["$2"],"ThemeProvider"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1b:"MetadataBoundary"
+1c:I[97367,["$2"],"$1b"]
+1d:"$Sreact.suspense"
+:HL["/_next/static/chunks/42js1iw3w9mby.css","style"]
+7:X
+a:X
+a:C
+b:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[[["$","header",null,{"style":{"position":"sticky","top":0,"zIndex":50,"background":"var(--bg-0)","borderBottom":"1px solid var(--bdr)","padding":"14px 24px","display":"flex","alignItems":"center","gap":"16px"},"children":[["$","a",null,{"href":"/","style":{"display":"inline-flex","alignItems":"center","gap":"6px","fontSize":"13px","color":"var(--tx-3)","textDecoration":"none"},"children":[["$","span",null,{"style":{"fontSize":"16px"},"children":"‹"}],["$","span",null,{"children":"返回首页"}]]}],["$","div",null,{"style":{"width":"1px","height":"20px","background":"var(--bdr-med)"}}],["$","span",null,{"style":{"fontSize":"12px","color":"var(--ac)","letterSpacing":"0.2em"},"children":"紫微命盘"}]]}],["$","main",null,{"style":{"maxWidth":800,"margin":"0 auto","padding":"60px 24px 80px","color":"var(--tx-1)","lineHeight":1.8},"children":[["$","h1",null,{"style":{"fontSize":28,"fontWeight":600,"marginBottom":8},"children":"隐私政策"}],["$","p",null,{"style":{"fontSize":12,"color":"var(--tx-3)","marginBottom":32},"children":"最后更新：2026年4月"}],["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"1. 我们收集的信息"}],["$","p",null,{"children":"为提供紫微命盘排盘与解读服务，我们可能收集以下信息："}],["$","ul",null,{"style":{"paddingLeft":24},"children":[["$","li",null,{"children":[["$","strong",null,{"children":"命盘必要信息"}],"：姓名（选填）、出生公历年月日、出生时辰、性别、出生地经度"]}],["$","li",null,{"children":[["$","strong",null,{"children":"账号信息（注册后）"}],"：手机号（用于短信验证与会员服务）"]}],["$","li",null,{"children":[["$","strong",null,{"children":"交互信息"}],"：你在站内的点击、浏览、命盘历史记录"]}],["$","li",null,{"children":[["$","strong",null,{"children":"反馈信息"}],"：你对解读内容的\"准 / 不准\"打分与文字反馈"]}],["$","li",null,{"children":[["$","strong",null,{"children":"支付信息"}],"：购买会员或单项服务时通过第三方支付（支付宝 / 微信支付）处理，本平台不存储完整卡号或密码"]}]]}],["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"2. 我们如何使用信息"}],["$","ul",null,{"style":{"paddingLeft":24},"children":[["$","li",null,{"children":"命盘信息仅用于本次解读与你账号下的历史命盘记录"}],["$","li",null,{"children":"手机号用于注册、登录、订单通知"}],["$","li",null,{"children":"反馈信息用于持续改进命理内容质量（脱敏后聚合分析）"}],["$","li",null,{"children":"聚合数据可能用于行业研究与平台优化"}]]}],["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"3. 信息共享与第三方"}],["$","p",null,{"children":"除以下情形外，我们不会向第三方共享你的个人信息："}],["$","ul",null,{"style":{"paddingLeft":24},"children":[["$","li",null,{"children":"支付服务商（支付宝 / 微信支付）：处理订单结算"}],["$","li",null,{"children":"短信服务商（如阿里云短信）：发送验证码"}],["$","li",null,{"children":"云服务商（如 Vercel / Cloudflare / 阿里云）：技术承载"}],["$","li",null,{"children":"AI 解读服务（如 Anthropic Claude）：处理你的\"自由追问\"对话（已做匿名化）"}],["$","li",null,{"children":"司法机关或政府部门基于法律法规的合法要求"}]]}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]],null,"$L17"]}],"p":"$@18","v":null,"s":"$7"}}]]
+8:[["children",{"s":"privacy","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@9","v":"$a","s":"$7"},"c":"$Qb"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/42js1iw3w9mby.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/27tg5b0ij2u0t.js","async":true}]],["$","html",null,{"lang":"zh-CN","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"(function(){try{var t=localStorage.getItem('ziwei-theme');if(t==='light'||t==='dark')document.documentElement.setAttribute('data-theme',t);else document.documentElement.setAttribute('data-theme','dark');}catch(e){}})();"}}]}],["$","body",null,{"className":"min-h-screen","children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]}]}]]}]]}],"p":"$@6","v":null,"s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"隐私政策 · 紫微命盘"}],["$","meta","1",{"name":"description","content":"紫微命盘隐私政策"}],["$","meta","2",{"name":"keywords","content":"紫微斗数, 倪海厦, 天纪, 紫微命盘, 排盘系统, 14主星, 12宫位, 三方四正, 四化飞星"}]]}]}],null]}],null]}],"p":"$@1e","v":null,"s":"$7"}},"a":"$@1f","u":"$@20","b":"N0qPmCyW_g5CnAJWOynyD"}
+21:I[97367,["$2"],"OutletBoundary"]
+c:["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"4. 信息安全"}]
+d:["$","p",null,{"children":"我们采取业界常见的技术与管理手段保护你的信息（HTTPS 传输加密、数据库加密存储、访问权限控制等）。但请注意，互联网传输无法保证 100% 安全。"}]
+e:["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"5. 你的权利"}]
+f:["$","ul",null,{"style":{"paddingLeft":24},"children":[["$","li",null,{"children":[["$","strong",null,{"children":"查询"}],"：可通过账号中心查看你的所有历史命盘与订单"]}],["$","li",null,{"children":[["$","strong",null,{"children":"删除"}],"：联系客服删除账号下指定命盘 / 注销账号"]}],["$","li",null,{"children":[["$","strong",null,{"children":"导出"}],"：可申请导出你的全部个人数据"]}]]}]
+10:["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"6. Cookie 与本地存储"}]
+11:["$","p",null,{"children":"本站使用 cookie / localStorage 用于：保存你的暗黑/亮色主题偏好、最近的命盘历史、会员登录状态。你可在浏览器设置中关闭，但部分功能可能受影响。"}]
+12:["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"7. 未成年人"}]
+13:["$","p",null,{"children":"本平台命理内容面向 18 岁以上成年用户。未成年人请在监护人同意下使用，并不得将解读用于重大人生决策。"}]
+14:["$","h2",null,{"style":{"fontSize":18,"marginTop":32,"marginBottom":12},"children":"8. 政策变更"}]
+15:["$","p",null,{"children":"本政策可能不定期更新。重大变更将以显著方式通知。继续使用即表示同意更新后的版本。"}]
+16:["$","p",null,{"style":{"marginTop":48,"fontSize":12,"color":"var(--tx-3)"},"children":[["$","a",null,{"href":"/terms","style":{"color":"var(--ac)"},"children":"服务条款"}]," · ",["$","a",null,{"href":"/","style":{"color":"var(--ac)"},"children":"返回首页"}]]}]
+17:["$","$L21",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@22"}]}]
+7:300
+22:null
+20:true
+7:C
+1f:0
+9:"$undefined"
+6:"$undefined"
+1e:"$undefined"
+18:"$undefined"

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/chart/layout,_N_T_/chart/page,_N_T_/chart"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/chart/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/32e346c99a0ebd5cde877fd229559e6d993b687453225f9ff097c2442ae64211/$/chart",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/chart/page"
+    },
+    "isFallback": false
+  }
+}

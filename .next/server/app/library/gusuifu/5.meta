@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/library/layout,_N_T_/library/[book]/layout,_N_T_/library/[book]/[chapter]/layout,_N_T_/library/[book]/[chapter]/page,_N_T_/library/gusuifu/5"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/library/$d$book/$d$chapter/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 96,
+                "slots": {
+                  "children": {
+                    "hints": 160,
+                    "slots": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/85e3ca9ce10e36924b5e51d67355eef57feddce10bc647edd34adc3f290e7639/$/library/gusuifu/5",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/library/[book]/[chapter]/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/heming/layout,_N_T_/heming/page,_N_T_/heming"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/heming/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 160,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/5a69e5c31486b1ed5971e30ff22fe0477a8908c11f3c44e753d760e4f34b52e9/$/heming",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/heming/page"
+    },
+    "isFallback": false
+  }
+}

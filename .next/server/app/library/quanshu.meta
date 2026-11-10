@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/library/layout,_N_T_/library/[book]/layout,_N_T_/library/[book]/page,_N_T_/library/quanshu"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/library/$d$book/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/21c318ea5f9b487f384f2caa7ed31342ccaccaef98a837f3a40730f4dd81c0e3/$/library/quanshu",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/library/[book]/page"
+    },
+    "isFallback": false
+  }
+}

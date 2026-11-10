@@ -1,0 +1,18 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/chart/page": "app/chart/page.js",
+  "/heming/page": "app/heming/page.js",
+  "/knowledge/[star]/[topic]/page": "app/knowledge/[star]/[topic]/page.js",
+  "/knowledge/page": "app/knowledge/page.js",
+  "/library/[book]/[chapter]/page": "app/library/[book]/[chapter]/page.js",
+  "/library/[book]/page": "app/library/[book]/page.js",
+  "/library/page": "app/library/page.js",
+  "/library/search/page": "app/library/search/page.js",
+  "/page": "app/page.js",
+  "/preview/page": "app/preview/page.js",
+  "/privacy/page": "app/privacy/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/terms/page": "app/terms/page.js"
+}
